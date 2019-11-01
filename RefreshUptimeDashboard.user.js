@@ -12,7 +12,7 @@
     'use strict';
 
     var currentTime = new Date().toISOString().slice(0, 10);
-    var url = "http://sre.ml.com/#/reports-apps/slo/team/ml-pc-bpp-control?"+currentTime;
+    var url = "http://sre.ml.com/#/reports-apps/slo/team/ml-pc-bpp-control/"+currentTime;
 
     setTimeout(function() {
         location.replace(url);
