@@ -618,7 +618,11 @@
   ],
   "props": {
     "overrides": {
-      "gba": "retro-mgba-gba"
-    }
+      "gba": "retro-mgba-gba",
+      "psx": "beetle-psx"
+    },
+    "psx_bios": [
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH1001.BIN"
+    ]
   }
 }
