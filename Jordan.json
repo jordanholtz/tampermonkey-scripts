@@ -554,6 +554,66 @@
           "backgroundPixelated": true
         }
       ]
+    },
+    {
+      "title": "Sony PlayStation",
+      "longTitle": "Sony PlayStation Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/psx-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/psx-thumb.png",
+      "description": "The Sony PlayStation (PSX) is a 32-bit fifth-generation home video game console developed and sold by Sony Computer Entertainment. Released in 1994, it popularized CD-ROM-based games and 3D polygonal graphics, becoming one of the best-selling consoles of all time.",
+      "items": [
+        {
+          "type": "psx",
+          "title": "Gran Turismo",
+          "longTitle": "Gran Turismo",
+          "description": "The first game in the Gran Turismo series of racing simulations.\n\nYou can choose between the arcade version (featuring classic cars such as Corvettes and Aston Martins) or the simulation, which is the true heart of the game. The simulation starts you on an entire racing career beginning with a cheap used car and second-rate tracks. You will find yourself longing for the Dodge Viper as your sad $10,000 starting fund puts you behind the wheel of a used Honda Prelude or Mazda RX-7. As you win races, acquire money, and earn advanced licenses, you are able to buy better cars and race in more competitive matches right up to the GT World Cup.\n\nFeatures more than 140 cars.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1749741356030,
+          "props": {
+            "uid": "0bc10249-6b2d-455b-843d-0c69c8a85665",
+            "discs": [
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx/CHD-PSX-USA/Gran%20Turismo%20%28USA%29.chd"
+            ],
+            "sbi": []
+          }
+        },
+        {
+          "props": {
+            "uid": "42ae631c-bb65-4ae3-9d83-e783363ab83a",
+            "discs": [
+              "https://gam.onl/user/psx/roms/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).chd",
+              "https://gam.onl/user/psx/roms/Gran%20Turismo%202%20(USA)%20(Simulation%20Mode)%20(Rev%202).chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2 - Arcade Mode",
+          "description": "Disco 1 Arcade e Disco 2 Simulação.\n\nSecond game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "backgroundPixelated": true,
+          "added": 1749128045642,
+          "longTitle": "Gran Turismo 2"
+        },
+        {
+          "props": {
+            "uid": "400cf39b-cbde-43d1-a7d5-9fbce3c66c57",
+            "discs": [
+              "https://gam.onl/user/psx/roms/Gran%20Turismo%202%20(USA)%20(Simulation%20Mode)%20(Rev%202).chd",
+              "https://gam.onl/user/psx/roms/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode)%20(Rev%201).chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2 - Simulation Mode",
+          "description": "Disco 1 Simulação e Disco 2 Arcade.\n\nSecond game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20-%20Music%20at%20the%20Speed%20of%20Sound%20-%20The%20Album%20(USA)%20(Bonus%20PlayStation%20Disc).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20-%20Music%20at%20the%20Speed%20of%20Sound%20-%20The%20Album%20(USA)%20(Bonus%20PlayStation%20Disc).png",
+          "backgroundPixelated": true,
+          "added": 1749128075007,
+          "longTitle": "Gran Turismo 2"
+        }
+      ]
     }
   ],
   "props": {
