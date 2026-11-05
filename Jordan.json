@@ -1,0 +1,564 @@
+{
+  "title": "Jordan",
+  "longTitle": "Jordan Feed",
+  "description": "The default feed contains a collection of high-quality publicly available games and demos across the various applications (emulators, engines, etc.) that are supported by webЯcade.",
+  "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/default-thumb.png",
+  "background": "https://webrcade.github.io/webrcade-default-feed/images/default-background.png",
+  "categories": [
+    {
+      "title": "Nintendo GBA",
+      "longTitle": "Nintendo Game Boy Advance Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gba-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png",
+      "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. Contrary to the previous Game Boy models, which have the \"portrait\" form factor of the original Game Boy, the Game Boy Advance was designed in a \"landscape\" form factor, putting the buttons to the sides of the device instead of below the screen.",
+      "items": [
+        {
+          "title": "Another World",
+          "description": "Another World, known as Out of This World in North America, is a 1991 cinematic platformer action-adventure game designed by Éric Chahi and published by Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself on a dangerous alien world where he is forced to fight for his survival.",
+          "type": "gba",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba/anotherworld-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gba/anotherworld-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gba/Another_world.gba",
+            "saveType": 2,
+            "flashSize": 65536
+          }
+        },
+        {
+          "props": {
+            "rom": "https://alucard.retrogametalk.com/download.php?file=Densetsu%20no%20Stafy%20%28English%20v1.0.3%29.7z&id=440&platform=gba-roms&key=3080150629"
+          },
+          "type": "gba",
+          "title": "Stafy",
+          "longTitle": "Densetsu no Stafy (English Patched)",
+          "background": "https://retrogametalk.com/repo/wp-content/uploads/2015/01/11276_front.jpg",
+          "added": 1793918085293
+        }
+      ]
+    },
+    {
+      "title": "Sega Genesis",
+      "longTitle": "Sega Genesis Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis-thumb.png",
+      "description": "The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. Designed by an R&D team supervised by Hideki Sato and Masami Ishikawa, the Genesis was adapted from Sega's System 16 arcade board, centered on a Motorola 68000 processor as the CPU, a Zilog Z80 as a sound controller, and a video system supporting hardware sprites, tiles, and scrolling.",
+      "items": [
+        {
+          "title": "Arkagis Revolution",
+          "longTitle": "Arkagis Revolution (Trial)",
+          "description": "A top-down shooter for Sega Genesis/Mega Drive with mode 7 style rotation! Year 2612. Humans have started to travel space and colonizing other planets. For decades, the nation of Arkagis has been under the power of a dictator. The United Space Colonies have sent an army to bring down the dictator and free Arkagis.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/arkargisrevolution-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/arkargisrevolution-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/Arkagis Revolution - Trial Version (Rev 00).bin"
+          }
+        },
+        {
+          "title": "Cave Story",
+          "description": "Cave Story (Japanese: 洞窟物語, Hepburn: Dōkutsu Monogatari) is a 2004 Metroidvania platform-adventure game. It was developed over five years by Japanese developer Daisuke \"Pixel\" Amaya in his free time. Cave Story features 2D platform mechanics and is reminiscent of the games Amaya played in his youth, such as Metroid and Castlevania (both released in 1986).",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/cavestory-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/cavestory-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/cavestory.bin"
+          }
+        },
+        {
+          "title": "Demons of Asteborg",
+          "longTitle": "Demons of Asteborg (Demo)",
+          "description": "Demons Of Asteborg is a new original title for the Sega Genesis which will be released both as a physical cartridge and as a downloadable ROM for emulators and flash cards. It is a platform-based game with some metroidvania elements inspired by a lot of others MegaDrive/Genesis titles like Ghouls’n Ghosts, Castlevania, Mickey Mania, Space Harrier or Panzer Dragoon.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/demonsofasteborg-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/demonsofasteborg-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/Demons_of_Asteborg_DEMO_v21072020.bin"
+          }
+        },
+        {
+          "title": "IK+ Deluxe",
+          "description": "Fight your way through this stunning sequel to International Karate. Spectacular animated backgrounds, amazing moves including double head-kick and bon-bending backflips.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/ikplus-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/ikplus-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/ikplusdeluxe.bin"
+          }
+        },
+        {
+          "title": "Irena Genesis",
+          "longTitle": "Irena Genesis Metal Fury (Demo)",
+          "description": "Switch into battle mode to control the ultimate warship and battle the mighty Emperor Zerox's army who reign with an iron fist on planet Xellia. Find and destroy the magnetic field source which holds the intergalactic ship that you escort or become the leader of the rebellion by releasing the enslaved population for millennia. Help Major Celina Pelinsky accomplish this most perilous mission, but are you really ready to fight for freedom?",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/irena-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/irena-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/irena-ks-demo-update-21012021203626.bin"
+          }
+        },
+        {
+          "title": "Ixion",
+          "description": "Nendo's Ixion for the Sega Genesis is an interesting take on the bullet hell shooter genre. In this game you must avoid the onslaught of bullets without having the ability to fire back.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/ixion-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/ixion-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/ixion.bin"
+          }
+        },
+        {
+          "title": "Lethal Wedding",
+          "longTitle": "Lethal Wedding (Demo)",
+          "description": "Get ready to Bride Hard as you fight through insane odds and some mother-daughter issues! Say \"I do\" to bullets and blood in this top-down RPG shooter!",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/lethalwedding-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/lethalwedding-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/LW_build_0446.bin"
+          }
+        },
+        {
+          "title": "Mega Q*bert",
+          "description": "Mega Q*bert is a new game for Sega Mega Drive/Sega Genesis. Featured are 2 different game modes. Mega mode contains 80 levels to beat, often filled with new irregular blocks that make things harder and more complex enemies, while Arcade mode is a recreation of original arcade game (based on the NES iteration, to be more exact). Both modes offer simultaneous cooperative gameplay.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/megaqbert-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/megaqbert-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/Mega Qbert.bin"
+          }
+        },
+        {
+          "title": "Old Towers",
+          "description": "In Old Towers you play as a little explorer in towers full of deadly traps and ugly skulls. Your only weapons are quick-thinking and skill. Old Towers is inspired by Tomb Of The Mask from Playgendary.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/oldtowers-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/oldtowers-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/oldtowers.bin"
+          }
+        },
+        {
+          "title": "Omega Blast",
+          "description": "Omega Blast was created by homebrew developer Nendo. It is a bullet hell shooter in which you have 2 minutes to blast everything you possibly can to achieve the highest score.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/omegablast-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/omegablast-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/omega_blast.bin"
+          }
+        },
+        {
+          "title": "Papi Commando Remix",
+          "longTitle": "Papi Commando Remix (Demo)",
+          "description": "An independently developed project by Studio Vetea, published by WaterMelon. The evil Ceplusplus has sent a thief to Papi's home and has stolen his CommoStrad! Papi Commando must wear his headband yet again and wages war to recover his computer!",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/papicommandoremix-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/papicommandoremix-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/papicommandoremix.bin"
+          }
+        },
+        {
+          "title": "Phantom Gear",
+          "longTitle": "Phantom Gear (Demo)",
+          "description": "Phantom Gear mixes elements from a variety of classic action platformers for a unique and exciting package, and allows players to approach the game how they see fit. Lock ‘n’ load to power through levels, or use your skills and abilities to search for Gears and Orbs.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/phantomgear-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/phantomgear-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/phantom_gear_0.21.bin"
+          }
+        },
+        {
+          "title": "Pringles",
+          "description": "There are three worlds with three levels each. Collect all the Pringles you can and don’t jump in the wrong direction!",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/pringles-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/pringles-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/PRINGLES.BIN"
+          }
+        },
+        {
+          "title": "Project MD",
+          "longTitle": "Project MD (Unfinished)",
+          "description": "In this game, you play as Stephany, who loves playing games. She finds everyday life boring, so she creates a virtual world to roam around in and enjoy. However, she will soon realize that not all is happy in this realm.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/projectmd-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/projectmd-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/projmd-20120429.bin"
+          }
+        },
+        {
+          "title": "Rick Dangerous",
+          "description": "Will Rick Dangerous, intrepid Super Hero and part-time stamp collector, survive his first mission in the Aztec temple of the tribe? Should he do so, Rick will face new hazards in the Egyptian tomb and the enemy fortress.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/rickdangerous-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/rickdangerous-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/rickdangerous.bin"
+          }
+        },
+        {
+          "title": "Tanglewood",
+          "longTitle": "Tanglewood (Demo)",
+          "description": "Set in a fictional world, the game follows a young creature, Nymn, who is separated from the family pack after the sun sets. Unable to get back to the safety of the underground home, Nymn must find a way to survive the night terrors and get to morning.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/tanglewood-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/tanglewood-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/TANGLEWD.BIN"
+          }
+        },
+        {
+          "title": "VilQ Adventure",
+          "description": "A non-stop side scrolling jump, run, and slider in which you need to avoid the enemies, pick up food, and get as far as possible to reach the highest score.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/vilq-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/vilq-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/vilqadventure.bin"
+          }
+        },
+        {
+          "title": "Xump 2",
+          "longTitle": "Xump 2: Back to Space",
+          "description": "Xump 2 is a simple multi-platform puzzler by Retroguru. Help Misuki clean up deserted space fields. Obstacles like mines, teleport sectors and arrow walkways appear progressively throughout the game.",
+          "type": "genesis",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/xump2-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/xump2-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/xump2_100-digital (free release).bin"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Doom Classic",
+      "longTitle": "Doom Classic Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/doom-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/doom-thumb.png",
+      "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. The ability for user-generated content to provide custom levels and other game modifications using WAD files became a popular aspect of Doom. Gaining the first large mod-making community, Doom affected the culture surrounding first-person shooters, and also the industry.",
+      "items": [
+        {
+          "title": "Doom 1 (Shareware)",
+          "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting his way through hordes of invading demons from Hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years.",
+          "type": "doom",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/doom/doom1-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/doom/doom1-background.png",
+          "props": {
+            "game": "doom1"
+          }
+        },
+        {
+          "title": "Freedoom 1",
+          "longTitle": "Freedoom Phase 1",
+          "description": "The Freedoom project aims to create a complete, free content first person shooter game. Phase 1contains four episodes, nine levels each, totalling 36 levels. This game aims for compatibility with The Ultimate Doom mods, also known as plain Doom or Doom 1.",
+          "type": "doom",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/doom/freedoom1-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/doom/freedoom1-background.png",
+          "props": {
+            "game": "freedoom1"
+          }
+        },
+        {
+          "title": "Freedoom 2",
+          "longTitle": "Freedoom Phase 2",
+          "description": "The Freedoom project aims to create a complete, free content first person shooter game. Phase 2 includes 32 levels in one long episode, featuring extra monsters and a double-barrelled shotgun. This project aims for compatibility with Doom II mods.",
+          "type": "doom",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/doom/freedoom2-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/doom/freedoom2-background.png",
+          "props": {
+            "game": "freedoom2"
+          }
+        }
+      ]
+    },
+    {
+      "title": "ScummVM",
+      "longTitle": "ScummVM Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm-thumb.png",
+      "description": "Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft.",
+      "items": [
+        {
+          "props": {
+            "uid": "bfe20ed3-3327-41e5-8ea3-1c15b140b297",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Beneath%20a%20Steel%20Sky/WRC-MANIFEST.JSON"
+          },
+          "type": "scumm",
+          "title": "Beneath a Steel Sky",
+          "description": "Beneath a Steel Sky uses a variant of Revolution's virtual theatre engine. The game takes place in the future, after the world is damaged from the ravages of humankind. The game first follows Robert Foster as he tries to escape from an enclosed city after he was kidnapped and brought there from his home in the Australian outback. Later, Robert discovers a plot involving the death of his mother, a government coverup, and the secrets about his own father.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Beneath%20a%20Steel%20Sky-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Beneath%20a%20Steel%20Sky-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "fa3a3d86-ba09-4633-a1a0-2704f23fa5a2",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Drascula/drascula-1.0.zip"
+          },
+          "type": "scumm",
+          "title": "Drascula: The Vampire Strikes Back",
+          "description": "Drascula: The Vampire Strikes Back is the only game known that uses the drascula engine. It is an old Spanish 2D classic point & click style adventure with tons of humor and an easy interface.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Drascula-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Drascula-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "3f2055ce-4e1b-4094-b9a8-95017916c636",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Dreamweb/WRC-MANIFEST.JSON"
+          },
+          "type": "scumm",
+          "title": "Dreamweb",
+          "description": "DreamWeb is a top-down adventure game set in a gritty futuristic/dystopian city. Each location takes only a small portion of the screen without panning (except an optional small zoom window in the corner that follows the cursor), with the player interacting with objects and people by simply clicking them. Ryan has a limited inventory space, and as a lot of objects can be picked up (many without any use), the player must rationalize what might be useful and just filler. Dialogue is straight forward, with no options, but still required to advance in the game (to find new locations, for instance). In situations where many adventure games often feature an indirect approach to solve a problem, Ryan often faces himself with situations where it's 'killed or be killed', which result in deaths (sometimes of innocents).",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Dreamweb-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Dreamweb-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "c100c407-7d2b-4472-b4eb-83c9aced6497",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Flight%20of%20the%20Amazon%20Queen/WRC-MANIFEST.JSON"
+          },
+          "type": "scumm",
+          "title": "Flight of the Amazon Queen",
+          "description": "Flight of the Amazon Queen follows a pilot for hire named Joe King who is hired to fly a famous actress to her next job, but ends up in a lightning storm and crashes deep in the Amazon Jungle.  In the jungle, Joe uncovers a plot by a mad scientist to take over the world by creating an army of dinosaur women created from Amazon women.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Flight%20of%20the%20Amazon%20Queen-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Flight%20of%20the%20Amazon%20Queen-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "21feb94f-e028-453d-a1c2-a15d189889b4",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Griffon%20Legend/griffon-1.0.zip"
+          },
+          "type": "scumm",
+          "title": "Griffon Legend",
+          "description": "The Griffon Legend is a freeware zelda-like RPG created in FreeBASIC as part of a contest by Syn9 (Daniel Kennedy). 500 years after the Griffon-Dragon war, the Dragons have returned to reclaim their empire. Cities are falling, everyone is dying, and the lone Griffon Knight Fayne is caught up in the middle of it all.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Griffon Legend-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Griffon Legend-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "1f6f5fc4-1d38-41ec-ad16-c52609ff01b2",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Lure%20of%20the%20Temptress/lure.zip"
+          },
+          "type": "scumm",
+          "title": "Lure of the Temptress",
+          "description": "Lure of the Temptress, was the first game to use Revolution's Virtual Theatre engine. The game follows a young peasant named Diermot who must escape prison, rid the kingdom of Turnvale from the Skorl invaders, and defeat the cruel temptress Selena.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Lure%20of%20the%20Temptress-thumbnail.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Lure%20of%20the%20Temptress-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "db8dea2d-3c61-44be-95ee-c57b99d3a796",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Sfinx/Sfinx.zip"
+          },
+          "type": "scumm",
+          "title": "Sfinx",
+          "description": "Sfinx follows Vincent (Wacek) and Anna (Andzia), a pair of school age children, who are told by an old professor that a flying saucer has landed somewhere on Earth.  Wacek and Andzia then start a journey to find and help the alien.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Sfinx-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Sfinx-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "ad3d68ca-7b2b-40e4-8a02-572c93a59d3e",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/scummvm/Soltys/Soltys.zip"
+          },
+          "type": "scumm",
+          "title": "Soltys",
+          "description": "You play the head of the village of Wąchock and your aim is to find the missing husband of your daughter (who apparently isn't very attractive if you know what I mean). Scared of his future, Leon decides to run away from the wedding and you are responsible for bringing this poor guy back.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Soltys-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/scummvm/Soltys-background.png",
+          "backgroundPixelated": true
+        }
+      ]
+    },
+    {
+      "title": "DOS",
+      "longTitle": "DOS Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/dos-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos-thumb.png",
+      "description": "DOS games were designed for MS-DOS, a command-line operating system popular in the 1980s and early 1990s. These games spanned a wide range of genres, from platformers and RPGs to first-person shooters and adventure titles, often limited by the hardware of the time with low-resolution graphics and simple sound. Iconic games like Doom, Commander Keen, and The Secret of Monkey Island became classics and helped shape modern gaming.",
+      "items": [
+        {
+          "props": {
+            "uid": "b1dc9af9-ac37-4620-89a2-e8600e7c797d",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/alienrampage/alienrampage.zip"
+          },
+          "type": "dos",
+          "title": "Alien Rampage (Demo)",
+          "description": "Alien Rampage is a 2D side-scroller with large animated sprites and multiple layers of parallaxing backgrounds.You are a lone angry alien dude with a bad attitude. You crash landed on an inhospitable planet, and thus you set out to get back to a ship so you can leave this horrible place. To make it, you'll blast hundreds upon hundreds of nasty creatures, enemy bounty hunters, and you'll use some pretty impressive weaponry to do it.You'll also get to buy power ups and get help from the goofy local troll-like natives, to solve puzzles.The gameplay consists of running, jumping and shooting, with a big emphasis on shooting. The action is very gory, and is akin to DOOM in 2D.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/alienrampage-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/alienrampage-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "5b918da7-7590-4e4b-a200-a303c7cf2a4c",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/bstone/bstone.zip",
+            "autoStartPath": "bstone.bat"
+          },
+          "type": "dos",
+          "title": "Blake Stone: Aliens of Gold (Shareware)",
+          "description": "Aliens of Gold, the first game in the Blake Stone series, pits the space-age British secret agent against Dr. Pyrus Goldfire; a madman bent on world domination. Using a mastery of genetic engineering and a tremendous reserve of wealth, Dr. Goldfire intends to unleash a mutant army upon the Earth.The first chapter begins in Goldfire's S.T.A.R. Institute headquarters building. Each level has Blake fighting through guards to find an elevator keycard for the next level. Dr. Goldfire will personally appear along the way to fire shots at Blake, and his genetic creations also pose a tough challenge. Each chapter lasts 10 levels, and brings Blake closer to reaching Goldfire, only to have the mad doctor escape to a new installation in his network, and the start of a new chapter.Blake Stone uses the Wolfenstein 3-D engine to render its levels. Basic gameplay and enemy AI is similar in most respects. Some of Blake 's innovations include silent weapons that can kill guards without alerting others. Alerts are given to the player through text messages on the HUD. Health can be gained through use of wall-mounted vending machines, operated with tokens picked up off dead guards. An automap and stat-tracking are both available during gameplay. Finally, there are friendly AI characters who offer clues and powerups when you speak to them - provided Blake doesn't accidentally shoot them first!",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/bstone-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/bstone-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "e83ca20a-8d03-43ad-a2a8-c0a1f42099b5",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/descent/descent.zip",
+            "autoStartPath": "descent.bat"
+          },
+          "type": "dos",
+          "title": "Descent (Demo)",
+          "description": "The Post-Terran Minerals Corporation (PTMC) digs up minerals on all nine planets of the solar system, employing humans and robots to do its job. Unfortunately, the mining robots are now being controlled by a hacker, and have taken the human workers hostage. The PTMC has tried to get the robots back under their control, but communication with the mining stations has been lost. In desperation, the PTMC modifies a Pyro-GX ship for combat and hires a mercenary, codenamed \"Material Defender\", to fly it. The mission is to destroy the infected mines and rescue human hostages, destroying any hostile robot that gets in the way.Descent is a 3D first-person game that puts the player at the controls of the Pyro-GX spaceship. Descent is notable in that the player travels through various interior locations (mines) but can do so in 720 degrees of movement. The ship however only moves forward and backward in any of the directions it is facing. The ship is able to use a variety of weapons scattered as power-ups throughout each level. They include: standard lasers, the Vulcan Cannon (a chaingun-like weapon), the Spreadfire Cannon (a rapidly firing, shotgun-like energy weapon), the Plasma Cannon (a rapidly firing energy weapon more suited for medium-range combat), and the Fusion Cannon (fires a ball of energy that's more powerful the longer it is charged it up, but could destroy the ship). All of these weapons, except for the Vulcan Cannon, use the ship's energy supply. The Pyro-PX is also capable of firing regular concussion missiles, homing missiles, proximity bombs (positioned midair, then explodes when something gets close to it), smart missiles (more powerful homing missiles that fire out homing energy balls upon impact with their target), and Mega Missiles (the ultimate weapons of mass destruction).The goal of each level is to locate and destroy the mine's reactor. Once completed, there is a countdown to find the escape hatch to get out of the mine before it explodes. As progress is made through the game, the AI will adapt to player's strategies and attempt to prevent the player from reaching the goals.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/descent-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/descent-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "8daf2bbc-21a9-4a39-b74c-b4bffe14c425",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/duke3d/Duke%203d.zip",
+            "autoStartPath": "duke3d.exe"
+          },
+          "type": "dos",
+          "title": "Duke Nukem 3D (Shareware)",
+          "description": "Aliens have landed in futuristic Los Angeles and it's up to the Duke to bring the pain and show them the door. After the initial entries of side-scrolling platform games, Duke Nukem 3D introduces a first-person perspective to the series and turns the game into a full-fledged shooter with 2.5D graphics.Duke's arsenal includes pistols, pipe bombs, laser trip mines, Nordenfelt guns, a chain gun and various rocket launchers, but also his mighty foot to kick enemies. The game sports a high level of interactivity. Many objects in the environment can be broken or interacted with, such as pool tables, arcade machines, glass, light switches and security cameras. The protagonist is also able to hand strippers dollars to have them remove their top.The main character regularly delivers commentary on the events through one-liners. There are twenty-eight levels, divided over three episodes, set in locations such as streets, a church, a space station, a Japanese villa, a football field and many modern environments. Enemies mainly include aliens, mutated humans and members of the police force that have been turned into Pig Cops. Next to weapons, Duke also has access to medikits, steroids to enhance his speed, night vision, protective boots, a hologram known as the \"holoduke\", and a jetpack to reach higher areas. Most of the gameplay is action-oriented, but there is also an amount of puzzles needed to progress or access secret areas.The game includes network play through the IPX protocol, for deathmatch and cooperative games.While the port for the Sega Saturn features, among other things, a new secret level called Area 51, the Sony PlayStation version adds a whole new 7 level long episode called Plug 'N' Pray with new enemies and rearranged music.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/duke3d-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/duke3d-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "940aa726-3f64-4fc7-b320-361523a813dd",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/tim2/tim2.zip",
+            "autoStartPath": "tim2.exe",
+            "controllerMode": 1
+          },
+          "type": "dos",
+          "title": "Incredible Machine 2 (Demo)",
+          "description": "This game involves puzzle solving, while creating wacky machines.  Each level of the game contains a machine designed to do a specific task.  The only problem is, there are parts missing, and it is your job to figure out where to put what in order to get the machine to work.  The game features many wacky machine parts, including cats, super balls, lava lamps, flashlights, can openers, monkeys on treadmills, and many more wacky parts to get your machine working.  The game also comes with an editor to let you design your own unique machines from scratch.  These can either be for fun, or you can set it so that the person playing has to fill in the missing parts, just like in the campaign.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/tim2-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/tim2-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "47e74cae-3dd3-4737-aa48-7ad62b84063f",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/powerslave/powerslave.zip",
+            "autoStartPath": "ps.exe"
+          },
+          "type": "dos",
+          "title": "Powerslave (Demo)",
+          "description": "Powerslave is a first person shooter with an arcade style level progression. There are 20 consecutive single-player levels and 12 multiplayer deathmatch levels.Unknown alien forces have invaded the city of Karnak, and isolated it from the rest of the world. The inhabitants were subjected to torture, or injected with a substance, turning them into servient mummies. Even the mummy of king Ramses was not spared. After multiple failed attempts from world leaders to send armed forces to deal with the situation, you were chosen among a select few of the world's best special forces to infiltrate Karnak and destroy the invading forces from within. The mission turns awry, however, when your helicopter is shot down, and you find yourself alone, hoping to complete your mission and get out of the fray alive.Contrary to the later console adaptations of the game, each of the 20 singleplayer levels are played back to back with the player hunting for keys and secret areas to proceed onto the next level, similar to other games of the time, such as DOOM. The game features a single save slot for each playthrough and has a checkpoint system, allowing the player to continue from the latest checkpoint they have found. Levels range from ancient cities and temples through sprawling caverns of also lava variety all the way to the alien Kilmaat ships, and are filled with traps and keys hiding multiple pathways from initial access.The player starts their adventure with a mere Machete, but can find weapons such as a Revolver, M60, hand grenades and a Flamethrower to magical weapons such as the Cobra Staff that fires seeking snake projectiles, and the Eye of Ra gauntlet which summons Ra to strike enemies down with lightning. Basic enemies include mummies and men-turned-zombies representing ancient gods; Anubis, Bastet and Set. Mystical being such as the Am-Mit, Selkis and a lava beast called Magmantis are also included. The alien Kilmaat forces are represented by Kilmaat soldiers and Kilmaatikhan. Crazed wildlife is represented by Rats, Giant Piranhas, Terranian spiders and Omen Wasps.Although the multiplayer in the game is set up to be deathmatch-only, it's possible to play the singleplayer levels with enemies.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/powerslave-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/powerslave-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "86cc7916-6558-4d25-b1fd-c1a5487580b3",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/pop/pop.zip"
+          },
+          "type": "dos",
+          "title": "Prince of Persia (Demo)",
+          "description": "While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place.Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platformer genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist's vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters' movements.The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards. The player character has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. The hero starts with three units of health, which can be replenished with small health potions or permanently increased with large jars.The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro, an altered set of graphics and four new levels.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/pop-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/pop-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "e2896622-d9fe-47a0-8068-a80d0f65f6b9",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/rayman/rayman.zip"
+          },
+          "type": "dos",
+          "title": "Rayman (Demo)",
+          "description": "When a villain known only as Mr. Dark appears, trouble brews in Rayman's world. Mr. Dark captures the Toons - source of light and Rayman's friends. With no more light, evil creatures begin to roam, making the world unsafe for everyone. It’s up to you, as Rayman, to free your friends and put an end to Mr. Dark's dastardly schemes!Rayman is a side-scrolling platformer starring the titular Rayman, a big-nosed chap with no arms or legs. Rayman can jump and use his hair to hover for a short period of time. He can also attack by throwing his fists, or winding up his fists for a more powerful punch. He can occasionally find special power ups that grant him unlimited flying power, giving him the ability to navigate through tricky mazes.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/rayman-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/rayman-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "4bb88569-1228-455e-b2d6-abb7a667e12e",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/darkforces/darkforces.zip",
+            "autoStartPath": "df.exe"
+          },
+          "type": "dos",
+          "title": "Star Wars: Dark Forces (Demo)",
+          "description": "Kyle Katarn is a former Imperial officer turned mercenary, now hired by the Rebel Alliance. After having stolen the Death Star plans from a remote facility, he is tasked with investigating the sudden destruction of a hidden Rebel base. This leads him to face off against Imperial General Rom Mohc and the various iterations of his Dark Troopers - cybernetic soldiers with the armor and firepower to turn the tide of the war.Dark Forces is a close prequel to the original Star Wars movie trilogy. The game marks LucasArts' first attempt to enter the first-person shooter market. Instead of licensing the DOOM engine, like many competitors, LucasArts created its own internal Jedi engine. The Jedi engine contains advanced features over similar tech, including the ability to look up and down, jump, crouch, and limited support (in the build used for Dark Forces) for rooms (sectors) over rooms. The 3D models also make occasional appearances inside the game, as turrets or Kyle's ship dropping him off or picking him up from each mission.Most levels have a fairly complex, often maze-like structure, and include various switches that need to be activated to change the layout of the level. Jumping is integrated into the gameplay, as certain areas can only be accessed in that way. In addition to weapons, Kyle can use shields to protect himself from damage, a head lamp to illuminate dark areas, as well as specific items used to counter environmental hazards. The player character is given a certain amount of \"lives\" per level; he dies permanently once he runs out of all of them. Game progress can be saved only between missions.The game features fourteen substantial levels as Kyle works to disarm the Dark Trooper project. Many levels reference characters or areas from the Star Wars movie trilogy, such as a visit with Jabba the Hutt, a trip to Coruscant, and a battle through the interior of a Star Destroyer. As opposed to most first-person shooters of the time period, every level has objectives for Kyle to complete, ranging from grabbing a clue and getting out alive, to planting charges around a facility to demolish it. Cutscenes appear between key missions to update the plot.The Star Wars license gets plenty of use, as the game features imperial officers, stormtroopers, and a collection of aliens seen in the films as enemies. Blaster rifles and thermal detonators are used as weapons, along with other firearms inspired by the tech of the films. Dark Forces also uses the iMuse engine to dynamically change the music during action scenes, with much of the music based off or directly replicating, John Williams' original film score.The game is entirely a single-player campaign; no multiplayer is included or supported.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/darkforces-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/darkforces-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "b58d8629-98fb-4d16-852e-e9131746c697",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/tyrian2000/tyrian2000.zip"
+          },
+          "type": "dos",
+          "title": "Tyrian 2000",
+          "description": "Tyrian 2000 is a direct re-release of the original action smash, Tyrian. It is essentially the same game with an additional new episode (Hazudra Fodder), a revised engine (fewer bugs and better controls) and added Windows support. It also adds another option called \"Timed Battle\".Tyrian is nothing like your run-of-the-mill shoot-'em-up. It gained a following even larger than the classic Raptor: Call of the Shadows, and rightfully so: it has a plot. A plot, you ask? Yes. And even a complex one. You play the role of Trent Hawkings, this galaxy's ace solo fighter-pilot, whose luck forces him to save the galaxy, one time after another. Again and again, Trent must fight off MicroSol, a company with the evil intent of taking over the galaxy. Through your struggles, you will find yourself again and again betrayed by friends and allies, your parents will be killed and you will have to return to points you've already been to (with variations on the levels) in order to remove further threats to the galaxy and to yourself, all for the ultimate goal of overthrowing MicroSol.Tyrian also has two player arcade mode and supports network/modem/serial play. It features a multi-layered ship upgrade engine, in which you can change hulls, decide upon and upgrade your front and rear weapons, buy better shields and generators and even add ship \"sidekicks\". Tyrian's complete arsenal amound to over a dozen type of ships and over 100 weapon types!",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/tyrian2000-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/tyrian2000-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "5629d2d1-812d-497a-bfa6-47f106943417",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/warcraft2/warcraft2.zip",
+            "autoStartPath": "war2",
+            "controllerMode": 1
+          },
+          "type": "dos",
+          "title": "WarCraft II: Tides of Darkness (Shareware)",
+          "description": "WarCraft II: Tides of Darkness is a fantasy themed real-time strategy game and sequel to WarCraft: Orcs & Humans set on the world of Azeroth. With the conquest of the kingdom of Azeroth in the first war, the orcs are now preparing for an invasion of Lordaeron and conquer the remaining human, dwarven and elvisch realms. In an effort to counter this invasion the humans, elves and dwarves formed an alliance in the hope to avert the same fate the kingdom of Azeroth met.The game comes with many new features such as fighting not only over land but also over sea and air, SVGA 640x480 resolution graphics with many newly-rendered buildings and units, multiplayer-support with up to eight players, as well as a Red Book audio soundtrack, and a scenario editor that allows players to design and create their own scenarios. The editor requires Windows 3.1 or greater, even though WarCraft II is a DOS-based game.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/warcraft2-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/warcraft2-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "230a703a-7d8c-4e39-bb82-e9e12e9de92f",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/carmenusa/carmenusa.zip",
+            "controllerMode": 1
+          },
+          "type": "dos",
+          "title": "Where in the USA Is Carmen Sandiego? (Demo)",
+          "description": "A remake of Where in the U.S.A. is Carmen Sandiego?, this title features high-resolution graphics, digitized sound effects, and new locations.Sign your name up, then listen to the chief give you details about the suspect and the loot stolen by them, the location where the suspect was last seen, and the deadline by which you have to apprehend the suspect by. Question witnesses and contact informants to get information on the next location that the suspect headed to, as well as any information that could lead to a warrant. (You cannot arrest the suspect without one.) Determining where to go next will require research on your part, as everyone you question will reveal places, not cities that appear on the travel map.When you have decided where you should go next, you can travel to the next location. And from there, the above process gets repeated until you finally caught up with the suspect. A new feature on this map allows you to zoom in to a state, allowing you to look closer on its towns and terrain, and its surrounding states.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/carmenusa-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/carmenusa-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "42c796bb-8ae4-4a6d-a24a-c34b708993c5",
+            "archive": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/dos/wolf3d/Wolfenstein%203d.zip"
+          },
+          "type": "dos",
+          "title": "Wolfenstein 3D (Shareware)",
+          "description": "Wolfenstein 3D is an episodic first-person shooter and a follow-up to the top-down infiltration game Castle Wolfenstein. The game puts the player in the boots of B.J. Blazkowicz, an allied spy. There are six episodes: the first distributed completely as shareware; the second and the third available after registration; and the three final missions (which happen before the events of the first episode) available in the Nocturnal Missions pack.In the first episode (Escape from Wolfenstein), B.J. is captured, but overpowers a guard with the help of a concealed knife and manages to get out of his cell. Throughout the next nine levels, the player guides B.J. searching for an escape from Wolfenstein, guarded by Hans Grosse. After returning to Allied territory, B.J. is given the instructions to Operation: Eisenfaust, where he has to stop Dr. Schabbs and his army of mutant prototypes before they are released into the battlefields. The final mission (Die, Führer, Die!) has a simple goal: infiltrate the bunker under the Reichstag, and terminate Hitler (in a robotic suit) himself.The Nocturnal Missions are focused on the Nazi plans for chemical warfare, and start with Dark Secret, where B.J. hunts for lead researcher Dr. Otto Giftmacher. It's followed by Trail of the Madman, where the goal is capturing the war plans guarded by Gretel Grosse, and the final episode Confrontation, where B.J. meets General Fettgesicht, the planner for the chemical assault.Each episode has nine levels (eight regular and a final boss level), plus a secret level activated by a hidden switch somewhere in the eight first levels. Regular levels often feature a maze-like appearance or large areas with many enemies (the number of them on each area depends on the difficulty level), where the player must reach the exit elevator. To do so, he must kill the enemies (while it's possible to move behind the guards' backs and even there's a slight bonus in attacking them from behind, most enemies have to be dealt with by firepower), and depending on the level, activate \"push walls\" and/or get silver and golden keys to open certain doors.Many objects can be found in a level, from medikits, chicken meals, and even dog food (to restore health), ammo, and treasures, which solely exist for points. There are four weapons (knife, pistol, machine gun, and Gatling), all of them using the same bullets except the knife. The knife and the pistol are given at the start of the level, while the machine gun is either found (usually in secret areas) or picked up from SS troopers, and the Gatling is always dropped somewhere in the level. There are five kinds of enemies (excluding bosses) - Dogs (fast, but more a nuisance than life-threatening), Army Soldiers (dressed in a regular brown outfit, not very powerful but usually found in large groups), Officers (dressed in white, armed with a very accurate pistol and tough to kill), SS Troopers (blue attire, armed with a machine gun and tough to kill), and Mutants (the rarest and toughest of regular enemies, pale-skinned troopers with green clothes and a machine gun stuck in their chest).The player character has a number of lives; once he loses the last life, the game ends. To win extra lives, the player has to either find the 1-up item in the level or get 20,000 points (by killing enemies and capturing treasures or completing a level below the 'par' time while killing all enemies, finding all secrets by pushing walls, and collecting all treasure points).",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/dos/wolf3d-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/dos/wolf3d-background.png",
+          "backgroundPixelated": true
+        }
+      ]
+    }
+  ],
+  "props": {
+    "overrides": {
+      "gba": "retro-mgba-gba"
+    }
+  }
+}
