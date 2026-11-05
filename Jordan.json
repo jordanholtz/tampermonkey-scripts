@@ -622,7 +622,8 @@
       "psx": "beetle-psx"
     },
     "psx_bios": [
-      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH1001.BIN"
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH1001.BIN",
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH5500.BIN"
     ]
   }
 }
