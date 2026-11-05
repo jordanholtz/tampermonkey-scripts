@@ -623,8 +623,9 @@
     },
     "psx_bios": [
       "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH1001.BIN",
-      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH5500.BIN",
-      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/SCPH5501.BIN"
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5500.bin",
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5501.bin",
+      "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5502.bin"
     ]
   }
 }
