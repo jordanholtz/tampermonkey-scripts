@@ -26,7 +26,7 @@
         },
         {
           "props": {
-            "rom": "https://alucard.retrogametalk.com/download.php?file=Densetsu%20no%20Stafy%20%28English%20v1.0.3%29.7z&id=440&platform=gba-roms&key=3080150629"
+            "rom": "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/Densetsu%20no%20Stafy%20(English%20v1.0.3).gba"
           },
           "type": "gba",
           "title": "Stafy",
