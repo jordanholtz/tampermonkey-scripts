@@ -326,6 +326,16 @@
                                                            "rom":  "https://archive.org/download/sega-mega-drive-genesis_202409/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/Ultimate%20Mortal%20Kombat%203%20%28USA%29.zip"
                                                        },
                                              "added":  1735936153523
+                                         },
+                                         {
+                                             "title":  "Sonic The Hedgehog 2 - Anniversary Edition",
+                                             "longTitle":  "Sonic The Hedgehog 2 - Anniversary Edition (V3)",
+                                             "type":  "genesis",
+                                             "thumbnail":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20the%20Hedgehog%202%20(World).png",
+                                             "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20the%20Hedgehog%202%20(World).png",
+                                             "props":  {
+                                                           "rom":  "https://archive.org/download/sonic-the-hedgehog-2-anniversary-edition-v-3/Sonic%20The%20Hedgehog%202%20-%20Anniversary%20Edition%20%28V3%29.zip"
+                                                       }
                                          }
                                      ]
                        },
@@ -698,8 +708,80 @@
                                              "thumbnail":  "https://retrogametalk.com/repo/wp-content/uploads/2021/02/539833-black-matrix-playstation-front-cover.jpg",
                                              "background":  "https://retrogametalk.com/repo/wp-content/uploads/2021/02/34159-titre-Black-Matrix--250x250.jpg",
                                              "props":  {
-                                                           "rom":  "https://archive.org/download/bmc_20261107/BMC.chd"
+                                                           "uid":  "bmc-cross-psx-eng",
+                                                           "discs":  [
+                                                                         "https://archive.org/download/bmc_20261107/BMC.chd"
+                                                                     ]
                                                        }
+                                         },
+                                         {
+                                             "props":  {
+                                                           "uid":  "aca4d43c-eff4-48b9-affb-5a7ca4cf0a04",
+                                                           "discs":  [
+                                                                         "https://gam.onl/user/psx/roms/Pro%20Evolution%20Soccer%202%20(Europe)%20(En,Fr,De).chd"
+                                                                     ]
+                                                       },
+                                             "type":  "psx",
+                                             "title":  "Pro Evolution Soccer 2",
+                                             "description":  "This is Konami\u0027s second soccer (European football) simulation for the Playstation 2. Choose one of the 54 international or 16 leagues teams (plus 7 hidden ones), to participate basically in any kind of tournament you wish, from friendship games to world cup, with a vast choice of customizable tournaments. You can create your own players with personal statistics, and then put them into any team. You can also play legendary teams, for example, Brazil with Pele, Argentina with Maradona, etc.",
+                                             "thumbnail":  "",
+                                             "background":  "",
+                                             "added":  1749129097454
+                                         },
+                                         {
+                                             "props":  {
+                                                           "uid":  "60176cd3-64ab-4b10-80f5-4297c8e4589e",
+                                                           "discs":  [
+                                                                         "https://gam.onl/user/psx/roms/Parasite%20Eve%20(USA).disk1",
+                                                                         "https://gam.onl/user/psx/roms/Parasite%20Eve%20(USA).disk2"
+                                                                     ]
+                                                       },
+                                             "type":  "psx",
+                                             "title":  "Parasite Eve",
+                                             "description":  "An ordinary day in New York for rookie police officer Aya Brea. Christmas Eve is the present day, and you\u0027ve decided to visit the opera theater. Now this is where the fireworks begin. Suddenly audience members are set on fire, toasted completely, and it appears that the lead vocal is the source of this burning terror. Yet you appear to be immune, and as a police officer you\u0027re always on duty, so you must confront the danger.\n\nThere has to be some connection between the two of you, as that seems the only rational explanation. What if mitochondria are a species on its own, more advanced then humankind, and using them only to create environments and civilization for themselves? What if humankind are just hosts? What if mitochondria are the natural enemy of humankind? That would make Aya their natural enemy, so the battle for survival and uncovering the truth has already started.\n\nThe game is played over six days, each day bringing its own quest. Environments range from Central Park and the American Museum of Natural History to a police office and hospital, all of them modeled like realistic places and most of them crawling with bloodthirsty mutant animals. Combat is different from traditional RPGs, as while you still take turns attacking and/or using parasite powers, you\u0027ll be able to run across the battlefield and dodge enemy fire or even strike from a better angle or behind. As Aya levels up she will gain access to parasite powers, such as healing or supercharging a bullet with energy. These powers will deplete a recharging energy bar, although the bar will recharge slower the longer combat drags on. Aya will find many guns of various types throughout the game, and every gun can be modified with extra stats, either with special items, or by breaking down another gun to move over its bonus stats or special effects. The same is true for armor Aya finds.",
+                                             "thumbnail":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Parasite%20Eve%20(Japan)%20(Disc%201).png",
+                                             "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Parasite%20Eve%20(Japan)%20(Disc%201).png",
+                                             "backgroundPixelated":  true,
+                                             "added":  1749128977944
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "Sega CD",
+                           "longTitle":  "Sega CD Games",
+                           "background":  "https://webrcade.github.io/webrcade-default-feed/images/segacd-background.png",
+                           "thumbnail":  "https://webrcade.github.io/webrcade-default-feed/images/segacd-thumb.png",
+                           "description":  "The Sega CD is a CD-ROM peripheral for the Sega Genesis/Mega Drive.",
+                           "items":  [
+                                         {
+                                             "props":  {
+                                                           "uid":  "6dd3fe6f-ebac-483d-8cd5-419e1c69b2e3",
+                                                           "discs":  [
+                                                                         "https://archive.org/download/corpse-killer-usa-32-x-cd/NBA%20Jam%20%28U%29.chd"
+                                                                     ]
+                                                       },
+                                             "type":  "segacd",
+                                             "title":  "NBA Jam",
+                                             "description":  "NBA Jam is a two-on-two basketball game You can play any NBA team, and you can play as players like Barkley, Starks, Pippen, and Grant. Each human player controls a single player, so choose your squad wisely to take team-mate skill into account. The game is action-oriented, and players can perform unrealistic slam-dunks. Full performance statistics are automatically recorded. The play clock and 3-point line apply, but other rules are largely overlooked.",
+                                             "thumbnail":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Titles/resized/NBA%20Jam%20(Europe).png",
+                                             "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Snaps/output/NBA%20Jam%20(Europe).png",
+                                             "backgroundPixelated":  true,
+                                             "added":  1749747561191
+                                         },
+                                         {
+                                             "props":  {
+                                                           "uid":  "49d6acd0-9bee-4cbf-b28a-2ad19bb8abc0",
+                                                           "discs":  [
+                                                                         "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_segacd/CHD-SegaCD-NTSC/Secret%20of%20Monkey%20Island%2C%20The%20%28USA%29%20%28RE%29.chd"
+                                                                     ]
+                                                       },
+                                             "type":  "segacd",
+                                             "title":  "Secret of Monkey Island, The",
+                                             "description":  "Deep in the Caribbean lies Melee Island, ruled by the beautiful governor Elaine Marley. The cruel pirate LeChuck is deeply in love with her - so deeply that he refuses to accept his own death! As a ghost, he dwells with his undead crew somewhere near the mysterious Monkey Island. You are Guybrush Threepwood, a young man whose only wish is to become a real pirate. At the Scumm Bar you meet three pirates who tell you\u0027ll have to complete three difficult tasks in order to be worthy of this title. Could Guybrush ever suspect that while trying to complete those tasks, he will encounter the governor Elaine Marley, fall in love with her, and face the anger of the dreadful ghost pirate LeChuck?! This is when Guybrush\u0027 adventure truly begins!  The Secret of Monkey Island is an adventure game that utilizes the command verb-based SCUMM interface first introduced in  Maniac Mansion: you construct commands for Guybrush by clicking on the appropriate verb, and then clicking on the inventory item or an object in the room you want to interact with. It is the first LucasArts\u0027 adventure game in which it is impossible to get irrevocably stuck or to die. The branching dialogue system, where you choose one of the available responses while talking to people, allows you to talk to characters in different ways without fearing a wrong choice. There are plenty of inventory-based puzzles to solve, and even \"insult swordfighting\" to participate in, where Guybrush has to prove his wit is as sharp as his sword!",
+                                             "thumbnail":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Titles/resized/Secret%20of%20Monkey%20Island%2C%20The%20(Japan).png",
+                                             "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Snaps/output/Secret%20of%20Monkey%20Island%2C%20The%20(Japan).png",
+                                             "backgroundPixelated":  true,
+                                             "added":  1749912966414
                                          }
                                      ]
                        }
