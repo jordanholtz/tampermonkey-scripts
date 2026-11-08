@@ -796,6 +796,11 @@
                                    "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5500.bin",
                                    "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5501.bin",
                                    "https://github.com/jordanholtz/tampermonkey-scripts/raw/refs/heads/master/PSX/scph5502.bin"
-                               ]
+                               ],
+                  "segacd_bios":  [
+                                      "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/SMCD/BIOS_CD_U.BIN",
+                                      "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/SMCD/BIOS_CD_E.BIN",
+                                      "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/SMCD/BIOS_CD_J.BIN"
+                                  ]
               }
 }
