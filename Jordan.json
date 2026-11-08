@@ -788,14 +788,14 @@
                        {
                            "title":  "Sega Saturn",
                            "longTitle":  "Sega Saturn Games",
-                           "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(USA).png",
-                           "thumbnail":  "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/1fd4a6ad1d311f708dd38af2dc7ff099ad18db3d/Backgrounds/Sega%20-%20Saturn%20ICON.png",
+                           "background":  "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/5ddb220d16e9a143aad1e2f913c5370e9ced1044/Backgrounds/Sega%20-%20Saturn.png",
+                           "thumbnail":  "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/5ddb220d16e9a143aad1e2f913c5370e9ced1044/Backgrounds/Sega%20-%20Saturn%20ICON.png",
                            "description":  "The Sega Saturn is a 32-bit fifth-generation home video game console developed by Sega and released in 1994.",
                            "items":  [
                                          {
                                              "title":  "Street Fighter Alpha 2",
                                              "longTitle":  "Street Fighter Alpha 2 (USA)",
-                                             "type":  "saturn",
+                                             "type":  "retro-yabause",
                                              "thumbnail":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(USA).png",
                                              "background":  "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(USA).png",
                                              "description":  "Street Fighter Alpha 2 is a 2D fighting game and the sequel to Street Fighter Alpha: Warriors\u0027 Dreams. It features a roster of 18 characters, including returning favorites and new additions. The game introduces a new Custom Combo system and refines the gameplay mechanics from its predecessor.",
@@ -806,8 +806,22 @@
                                                                          "https://gam.onl/user/segaSaturn/roms/Street%20Fighter%20Alpha%202%20(USA).chd"
                                                                      ]
                                                        }
+                                         },
+                                         {
+                                             "title":  "Alien Trilogy",
+                                             "longTitle":  "Alien Trilogy",
+                                             "type":  "retro-yabause",
+                                             "thumbnail":  "https://i.imgur.com/unz6YLO.png",
+                                             "description":  "",
+                                             "props":  {
+                                                           "uid":  "556a8d47-0ae8-4421-a257-19dd64b8dc72",
+                                                           "discs":  [
+                                                                         "https://gam.onl/user/segaSaturn/roms/Alien%20Trilogy%20(USA)%20Saturn.chd"
+                                                                     ]
+                                                       }
                                          }
-                                     ]
+                                     ],
+                           "backgroundPixelated":  true
                        }
                    ],
     "props":  {
