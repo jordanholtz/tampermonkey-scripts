@@ -926,22 +926,22 @@
                                                            "discs":  [
                                                                          "https://gam.onl/user/segaSaturn/roms/Street%20Fighter%20Alpha%202%20(USA).chd"
                                                                      ]
-                                                       }
-                                         },
-{
-                                          "title":  "Alien Trilogy",
-                                          "longTitle":  "Alien Trilogy",
-                                          "type":  "retro-yabause",
-                                          "thumbnail":  "https://i.imgur.com/unz6YLO.png",
-                                          "description":  "",
-                                          "props":  {
-                                                    "uid":  "556a8d47-0ae8-4421-a257-19dd64b8dc72",
-                                                    "discs":  [
-                                                                          "https://gam.onl/user/segaSaturn/roms/Alien%20Trilogy%20(USA)%20Saturn.chd"
-                                                                      ]
-                                                  }
-                                      }
-                                  ],
+}
+                                          },
+                                          {
+                                              "title":  "Shin Megami Tensei",
+                                              "longTitle":  "Shin Megami Tensei",
+                                              "type":  "retro-yabause",
+                                              "description":  "Shin Megami Tensei is a post-apocalyptic role-playing game developed by Atlus for the Sega Saturn. It features demon negotiation, fusion, and a dark storyline where player choices affect the ending.",
+                                              "backgroundPixelated":  true,
+                                              "props":  {
+                                                            "uid":  "smt-saturn",
+                                                            "discs":  [
+                                                                          "https://github.com/jordanholtz/tampermonkey-scripts/releases/download/Saturn/SMT.chd"
+                                                                       ]
+                                                        }
+                                          }
+                                   ],
                             "backgroundPixelated":  true
                         },
                         {
